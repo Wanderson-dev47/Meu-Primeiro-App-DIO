@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiPrimeraAplicacionDio</string>
+    <string name="apresentacao">Esta es una aplicación para Android con soporte para múltiples idiomas (ES)</string>
+</resources>

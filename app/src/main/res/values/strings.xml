@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="apresentacao">Esse é um App Android com Suporte a Vários Idiomas (INGLÊS e ESPANHOL)</string>
 </resources>
